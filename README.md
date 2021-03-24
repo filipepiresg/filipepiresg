@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Filipe%20Pires-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-pires-guimaraes-3943a0a7/)](https://www.linkedin.com/in/filipe-pires-guimaraes-3943a0a7/) 
 [![Gmail Badge](https://img.shields.io/badge/-filipepiresg@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipepiresg@gmail.com)](mailto:filipepiresg@gmail.com)
 
-##### What I work with
+### What I work with
 
 <a href='https://developer.mozilla.org/docs/Web/JavaScript' target="_blank">
     <img height="36" width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/520px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript"/>
@@ -21,9 +21,9 @@
     <img height="36" width="36" src="https://media.giphy.com/media/ies0Iqu9Yc5UqpOk6A/giphy.gif" alt="Ruby on Rails"/>
 </a>
 
-##### Github stats
+### Github stats
 
 [![filipepiresg's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipepiresg)](https://github.com/filipepiresg)
 
-![Overview](https://github.com/filipepiresg/github-stats/blob/master/generated/overview.svg)
-![Languages](https://github.com/filipepiresg/github-stats/blob/master/generated/languages.svg)
+![Overview](./images/overview.svg)
+![Languages](./images/languages.svg)
