@@ -6,15 +6,15 @@
 ### What I work with
 
 <a href='https://developer.mozilla.org/docs/Web/JavaScript' target="_blank">
-    <img height="36" width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/520px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript"/>
+    <img height="36" width="36" src="./images/logo/javascript.png" alt="Javascript"/>
 </a>
 
 <a href='https://www.typescriptlang.org' target="_blank">
-    <img height="36" width="36" src="https://www.typescriptlang.org/icons/icon-144x144.png?v=8944a05a8b601855de116c8a56d3b3ae" alt="Typescript"/>
+    <img height="36" width="36" src="./images/logo/typescript.png" alt="Typescript"/>
 </a>
 
 <a href='https://reactjs.org' target="_blank">
-    <img height="36" width="36" src="https://pt-br.reactjs.org/favicon.ico" alt="ReactJS"/>
+    <img height="36" width="36" src="./images/logo/react.png" alt="ReactJS"/>
 </a>
 
 <a href='https://rubyonrails.org' target="_blank">
