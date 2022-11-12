@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/filipe-pires-guimaraes/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filipe-pires-guimaraes/) 
 [![Gmail Badge](https://img.shields.io/badge/-filipepiresg@gmail.com-%230077B5?logo=Gmail&logoColor=white&link=mailto:filipepiresg@gmail.com)](mailto:filipepiresg@gmail.com)
 
 # 💻 Tech Stack:
