@@ -1,5 +1,5 @@
 # 💫 About Me:
-📱 I’m currently working on mobile/web developer<br>👨🏾‍💻 I’m looking for help with Ruby on Rails<br>📚 I’m currently learning more about ReactJs and React Native
+📱 I’m currently working on mobile/web developer with React Native and ReactJS<br>👨🏾‍💻 I’m looking for help with Ruby on Rails 5<br>📚 I’m currently learning more about NodeJS, SwiftUI, Kotlin and Ruby on Rails
 
 
 ## 🌐 Socials:
